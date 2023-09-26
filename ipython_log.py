@@ -21,3 +21,4 @@ dir(random)
 import sys  # because it's already loaded, we just define the name here with this statement
 sys.path     # this is a list of strings, directories in which Python will look for a module
 random
+import abcde
