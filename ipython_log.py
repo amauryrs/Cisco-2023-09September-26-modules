@@ -28,3 +28,4 @@ random = 6
 type(random)
 import random
 type(randoM)
+type(random)
