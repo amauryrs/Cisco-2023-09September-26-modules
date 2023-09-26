@@ -1,7 +1,7 @@
 # this file contains no code at all
 # is it a legit module?  YES!
 
-print('Hello from mymod!')
+print('Hello from mymod!')   
 
 x = 100
 
