@@ -75,3 +75,7 @@ import menu
 user_choice = menu.menu('a', 'b', 'c')
 
 print(f'The user chose {user_choice}.')
+import menu
+user_choice = menu.menu('a', 'b', 'c')
+
+print(f'The user chose {user_choice}.')
