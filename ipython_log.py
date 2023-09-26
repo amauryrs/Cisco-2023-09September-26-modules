@@ -18,3 +18,4 @@ type(random)
 # dir won't tell us the type of value on each attribute, but it will tell us what was defined.
 
 dir(random)
+import sys  # because it's already loaded, we just define the name here with this statement
