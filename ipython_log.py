@@ -66,3 +66,4 @@ from importlib import reload
 reload(mymod)
 mymod.x
 mymod.y
+mymod.hello('out there')
