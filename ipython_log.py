@@ -53,3 +53,4 @@ import re
 from re import findall as refa
 refa('asdfa')
 import mymod
+dir(mymod)   
