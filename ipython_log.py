@@ -84,3 +84,4 @@ import mymod
 import mymod
 import mymod
 import menu
+sys.path
