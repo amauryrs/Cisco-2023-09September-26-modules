@@ -43,3 +43,5 @@ from random import randint
 del(random)  # get rid of the module variable
 from random import randint
 dir(random)
+sys
+get_ipython().run_line_magic('time', '')
