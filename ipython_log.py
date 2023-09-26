@@ -37,3 +37,5 @@ import rich
 rich = 6
 type(rich)
 'rich' in sys.modules
+import random
+randint(0, 3)
