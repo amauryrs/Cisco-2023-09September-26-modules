@@ -82,3 +82,4 @@ print(f'The user chose {user_choice}.')
 reload(mymod)
 import mymod
 import mymod
+import mymod
