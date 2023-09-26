@@ -64,3 +64,5 @@ dir(mymod)
 # normally, if you want to reload a module, you need to grab the "reload" function from the "importlib" module
 from importlib import reload
 reload(mymod)
+mymod.x
+mymod.y
