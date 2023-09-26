@@ -56,3 +56,5 @@ import mymod
 dir(mymod)   
 mymod.__file__
 mymod.__name__
+import mymod
+dir(mymod)
