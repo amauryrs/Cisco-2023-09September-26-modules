@@ -32,3 +32,5 @@ type(random)
 sys.modules
 'random' in sys.modules
 'rich' in sys.modules
+import rich
+'rich' in sys.modules
