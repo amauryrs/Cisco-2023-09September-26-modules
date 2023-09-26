@@ -39,3 +39,4 @@ type(rich)
 'rich' in sys.modules
 import random
 randint(0, 3)
+from random import randint
