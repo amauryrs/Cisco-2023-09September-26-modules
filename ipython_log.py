@@ -67,3 +67,7 @@ reload(mymod)
 mymod.x
 mymod.y
 mymod.hello('out there')
+import menu
+user_choice = menu.menu('a', 'b', 'c')
+
+print(f'The user chose {user_choice}.')
