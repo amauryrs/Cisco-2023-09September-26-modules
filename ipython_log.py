@@ -58,3 +58,9 @@ mymod.__file__
 mymod.__name__
 import mymod
 dir(mymod)
+# normally, when you import a module a second time in a program (or in Jupyter),
+# you don't get it reloaded automatically.  I actually did set things to reload...
+
+# normally, if you want to reload a module, you need to grab the "reload" function from the "importlib" module
+from importlib import reload
+reload(mymod)
