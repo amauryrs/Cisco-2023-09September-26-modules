@@ -47,3 +47,5 @@ sys
 get_ipython().run_line_magic('time', '')
 import time
 time
+import re
+dir(re)
