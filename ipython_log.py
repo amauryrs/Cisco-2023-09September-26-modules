@@ -34,3 +34,5 @@ sys.modules
 'rich' in sys.modules
 import rich
 'rich' in sys.modules
+rich = 6
+type(rich)
