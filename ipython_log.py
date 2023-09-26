@@ -24,3 +24,7 @@ random
 import abcde
 import random
 type(random)
+random = 6
+type(random)
+import random
+type(randoM)
