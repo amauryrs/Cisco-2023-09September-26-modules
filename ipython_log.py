@@ -55,3 +55,4 @@ refa('asdfa')
 import mymod
 dir(mymod)   
 mymod.__file__
+mymod.__name__
