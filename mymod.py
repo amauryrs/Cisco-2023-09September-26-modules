@@ -3,4 +3,8 @@
 
 x = 100
 
-y =- 
+y = [10, 20, 30]
+
+def hello(name):
+    return f'Hello, {name}!'
+    
