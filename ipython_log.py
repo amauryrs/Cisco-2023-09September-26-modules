@@ -29,3 +29,4 @@ type(random)
 import random
 type(randoM)
 type(random)
+sys.modules
