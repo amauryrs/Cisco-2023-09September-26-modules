@@ -83,3 +83,4 @@ reload(mymod)
 import mymod
 import mymod
 import mymod
+import menu
