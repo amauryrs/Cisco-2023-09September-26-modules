@@ -30,3 +30,5 @@ import random
 type(randoM)
 type(random)
 sys.modules
+'random' in sys.modules
+'rich' in sys.modules
