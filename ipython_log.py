@@ -42,3 +42,4 @@ randint(0, 3)
 from random import randint
 del(random)  # get rid of the module variable
 from random import randint
+dir(random)
